@@ -1,6 +1,0 @@
-2025/07/17-14:59:52.788 1c60 Reusing MANIFEST C:\Users\ninja\meu-bot-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/07/17-14:59:52.804 1c60 Recovering log #6
-2025/07/17-14:59:52.805 1c60 Reusing old log C:\Users\ninja\meu-bot-whatsapp\.wwebjs_auth\session\Default\Local Storage\leveldb/000006.log 
-2025/07/17-21:00:25.418 9bac Level-0 table #10: started
-2025/07/17-21:00:25.422 9bac Level-0 table #10: 13096 bytes OK
-2025/07/17-21:00:25.425 9bac Delete type=0 #6
