@@ -2,7 +2,7 @@ import pkg from 'whatsapp-web.js';
 const { Client, LocalAuth } = pkg;
 import qrcode from 'qrcode-terminal';
 import { GoogleGenAI } from '@google/genai';
-require('dotenv').config();
+import 'dotenv/config';
 
 const client = new Client({
   authStrategy: new LocalAuth({ dataPath: './.wwebjs_auth' })
